@@ -1,7 +1,7 @@
 <?php
 return [
-    'host'   => 'localhost',
-    'dbname' => 'eco_bridge',
+    'host'   => 'mysql.railway.internal',
+    'dbname' => 'railway',
     'user'   => 'root',
-    'pass'   => '',
+    'pass'   => 'lenQObwxLCuKJZsXyuTEzORYfuQegXtJ',
 ];
